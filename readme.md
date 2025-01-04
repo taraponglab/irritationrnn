@@ -1,6 +1,12 @@
 # Protecting your skin: a highly accurate LSTM network integrating conjoint features for predicting chemical-induced skin irritation
 
+![Abstract Graphic](graphic_abstract.jpg)
 
+#### Huynh Anh Duy*, Tarapong Srisongkram** 
+
+*Graduate School in the Program of Research and Development in Pharmaceuticals, Pharmaceutical Sciences, Faculty of Pharmaceutical Sciences, Khon Kaen University, Thailand. (huynhanhduy.h@kkumail.com; haduy@ctu.edu.vn)
+
+**Division of Pharmaceutical Chemistry, Faculty of Pharmaceutical Sciences, Khon Kaen University, Thailand. (tarasri@kku.ac.th)
 Source codes and dataset is available in this repository.
 
 Submitted to Journal of Cheminformatics
