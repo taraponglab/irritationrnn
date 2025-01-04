@@ -1,6 +1,6 @@
 # Protecting your skin: a highly accurate LSTM network integrating conjoint features for predicting chemical-induced skin irritation
 
-![Abstract Graphic](graphic_abstract.jpg)
+![Abstract Graphic](irritation_graphicabstract.png)
 
 #### Huynh Anh Duy*, Tarapong Srisongkram** 
 
