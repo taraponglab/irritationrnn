@@ -12,6 +12,8 @@ Source codes and dataset is available in this repository.
 
 The full paper has been published in the **Journal of Cheminformatics**.
 
+https://doi.org/10.1186/s13321-025-00980-y
+
 #### Package version
 Rdkit: v.2024.9.4; Scikit-learn: v1.5.2; Tensorflow: v2.17.0; Numpy: v.1.26.4.
 
